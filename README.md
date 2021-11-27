@@ -1,0 +1,2 @@
+# DATA_MINING_PROJECT
+group_work
