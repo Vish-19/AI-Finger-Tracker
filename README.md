@@ -20,7 +20,7 @@ cd DATA_MINING_PROJECT
 ```sh
 python <file_name>
 ```
-## List of Python Detection Files
+#### List of Python Detection Files
 
 - colour-detection.py
 
