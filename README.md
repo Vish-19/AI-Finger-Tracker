@@ -16,7 +16,7 @@ git clone https://github.com/Vish-19/DATA_MINING_PROJECT.git
 ```sh
 cd DATA_MINING_PROJECT
 ```
-3. Run the commands
+3. Run the command
 ```sh
 python <file_name>
 ```
